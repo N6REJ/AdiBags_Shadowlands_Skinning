@@ -14,26 +14,17 @@ db.desc = "Skinning reagents for Shadowlands"
 db.Filters = {
     ["Leather"] = {
         uiName = "Shadowlands Skinning",
-        uiDesc = "Reagents for Skinning in Shadowlands",
-        title = "Skinning",
+        uiDesc = "Reagents for leather from skinning in Shadowlands",
+        title = "Leather",
         items = {
             [172089] = true, -- Desolate Leather
+            [172093] = true, -- Desolate Leather Scraps
             [172092] = true, -- Pallid Bone
             [172094] = true, -- Callous Hide
             [172096] = true, -- Heavy Desolate Leather
             [172097] = true, -- Heavy Callous Hide
             [172438] = true, -- Enchanted Heavy Callous Hide
             [177279] = true, -- Gaunt Sinew
-        },
-    },
-    ["Reagents"] = {
-        uiName = "Shadowlands crafted reagents",
-        uiDesc = "Reagents made by crafting in Shadowlands",
-        title = "Reagents",
-        items = {
-            -- ID    = true,    --Item name
-            [177062] = true,    -- Penumbra Thread
-            [178787] = true,    -- Orboreal shards
         },
     },
 }
