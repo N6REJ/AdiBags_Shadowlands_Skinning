@@ -25,6 +25,7 @@ db.Filters = {
             [172097] = true, -- Heavy Callous Hide
             [172438] = true, -- Enchanted Heavy Callous Hide
             [177279] = true, -- Gaunt Sinew
+            [187701] = true   -- Protogenic Pelt
         },
     },
 }
